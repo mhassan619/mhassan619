@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Hassan
 
-<!--
-**mhassan619/mhassan619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 BSCS Student | Machine Learning Intern | AI Automation Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+💻 I’m currently working on real-world Machine Learning & AI Automation projects  
+🤝 I’m looking to collaborate on AI, Chatbots, and Automation systems  
+📚 Currently learning Deep Learning & advanced ML concepts  
+❓ Ask me about Python, ML models, Automation, and Chatbots  
+⚡ Fun fact: I believe consistency beats motivation  
+
+---
+
+## 🚀 Skills & Technologies
+
+### 👨‍💻 Programming
+- Python 🐍
+- C++
+
+### 🤖 Machine Learning
+- Scikit-learn
+- Model Training & Evaluation
+- Feature Engineering
+- Classification Models
+
+### ⚙️ AI Automation
+- Chatbot Development
+- Workflow Automation
+- Business Automation Systems
+
+### 📊 Data Tools
+- Pandas
+- NumPy
+- Matplotlib
+
+### 🔧 Tools
+- Git & GitHub
+- Jupyter Notebook
+- Google Colab
+
+---
+
+## 📌 Projects
+
+🔹 **Credit Scoring Model**
+- Built ML model to predict user creditworthiness  
+- Used classification algorithms & evaluation metrics  
+
+🔹 **Emotion Recognition from Speech**
+- Applied deep learning concepts for audio classification  
+- Extracted features like MFCC  
+
+🔹 **Handwritten Character Recognition**
+- Used CNN for image classification  
+- Worked on MNIST dataset  
+
+🔹 **AI Business Chatbot**
+- Developed chatbot for automated responses  
+- Improved user interaction & business efficiency  
+
+---
+
+## 📈 My Learning Mindset
+
+I focus on:
+✔ Learning by building real projects  
+✔ Improving step by step  
+✔ Staying consistent even after setbacks  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/muhammad-hassan-python?utm_source=share_via&utm_content=profile&utm_medium=member_android  
+💻 Email: mhassanawan66521@gmail.com
+
+---
+
+⭐ “Not perfect, just improving every day.”
