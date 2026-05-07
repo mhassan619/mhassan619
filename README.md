@@ -43,23 +43,19 @@
 
 ---
 
-## 📌 Projects
+## 📌 Machine Learning Projects
 
 🔹 **Credit Scoring Model**
 - Built ML model to predict user creditworthiness  
 - Used classification algorithms & evaluation metrics  
 
-🔹 **Emotion Recognition from Speech**
-- Applied deep learning concepts for audio classification  
-- Extracted features like MFCC  
-
-🔹 **Handwritten Character Recognition**
-- Used CNN for image classification  
-- Worked on MNIST dataset  
-
+ ## 📌 Automation Projects
+ 
 🔹 **AI Business Chatbot**
 - Developed chatbot for automated responses  
 - Improved user interaction & business efficiency  
+
+## 📌 Python Projects
 
 ---
 
