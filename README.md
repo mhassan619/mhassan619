@@ -50,15 +50,27 @@
 - Used classification algorithms & evaluation metrics  
 
  ## 📌 Automation Projects
- 
-🔹 **AI Business Chatbot**
-- Developed chatbot for automated responses  
-- Improved user interaction & business efficiency
 
 🔹 **File Automation Tool/File Organizer Tool**
 - [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_13)
 -  Automate Local storage and duplicate handling
 
+🔹 **GitHub Analyzer**
+-  [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/blob/main/Day_15/GitHub_Analyzer.py)
+-  A profile Analytics Tool that integrates with GitHub API to provide deep insights into repository statistics and user activity.
+
+🔹 **Books Scrapper**
+-  [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/blob/main/Day_18/Professional_book_scrapper.py)
+-  Highly Efficient data extraction tool designed to scrape and organize book details from e-commerce sites into structured data
+  
+🔹 **Weather App**
+-  [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_17)
+-  Dynamic Weather application providing real-time atmosperic data and forecasts for any city globally via API integration.
+
+🔹 **News Scrapper**
+-  [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_19)
+-  Automated web scrapping system to fetch and display real-time news headline using BeautifulSoup and Python.
+-  
 ## 📌 Python Projects
 
 ---
