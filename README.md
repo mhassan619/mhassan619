@@ -68,7 +68,7 @@
   
 🔹 **Weather App**
 -  [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_17)
--  Dynamic Weather application providing real-time atmosperic data and forecasts for any city globally via API integration.
+-  Dynamic Weather application providing real-time atmospheric data and forecasts for any city globally via API integration.
 
 
 🔹 **News Scrapper**
@@ -82,7 +82,7 @@
 ## 📈 My Learning Mindset
 
 I focus on:
-✔ Learning by building real projects  
+- ✔ Learning by building real projects  
 ✔ Improving step by step  
 ✔ Staying consistent even after setbacks  
 
