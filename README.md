@@ -76,7 +76,22 @@
 -  Automated web scrapping system to fetch and display real-time news headline using BeautifulSoup and Python.
   
 ## 📌 Python Projects
+🔹 **Student Management System**
+-  [View Source Code](https://github.com/mhassan619/Projects/tree/main/Student%20Management%20System)
+-  A modular OOP-based system to manage student records using custom decorators and JSON storage.
 
+🔹 **Secret Cypher Tool**
+-  [View Source Code](https://github.com/mhassan619/Projects/tree/main/Secret%20Cipher%20Tool)
+-  A secure message encryption and decryption tool utilizing string manipulation and random logic.
+  
+🔹 **PDF Merger**
+-  [View Source Code](https://github.com/mhassan619/Projects/tree/main/PDF%20Merger)
+-  An automated utility to scan and merge multiple PDF files into a single document using PYPDF2.
+  
+🔹 **Password Generator**
+-  [View Source Code](https://github.com/mhassan619/Projects/tree/main/Password%20Generator.py)
+-  A customizable random password generator with user-defined complexity and character types.
+  
 ---
 
 ## 📈 My Learning Mindset
