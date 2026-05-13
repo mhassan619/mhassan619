@@ -45,9 +45,18 @@
 
 ## 📌 Machine Learning Projects
 
-🔹 **Credit Scoring Model**
-- Built ML model to predict user creditworthiness  
-- Used classification algorithms & evaluation metrics  
+🔹 **Student Performance Predictor**
+- [View Source Code](https://github.com/mhassan619/Hassan-s_AI_Dashboard/tree/main/Student%20Performance%20Project)  
+- Built a classification model to predict academic outcomes based on study habits and attendance.
+
+🔹 **House Price Estimator**
+- [View Source Code](https://github.com/mhassan619/Hassan-s_AI_Dashboard/tree/main/House%20Price%20Prediction)  
+- Developed a regression-based tool for real estate valuation using Random forest.
+  
+🔹 **Customer Churn Analytics**
+- [View Source Code](https://github.com/mhassan619/Hassan-s_AI_Dashboard/tree/main/Customer%20Churn%20Prediction)  
+- Created a churn prediction system using XGBoost to identify at-risk customers for bussiness. 
+
 
  ## 📌 Automation Projects
 
