@@ -45,6 +45,9 @@
 
 ## 📌 Machine Learning Projects
 
+🔹 **My ML Dashboard**
+- [View Dashboard](https://hassan-saidashboard-awujmtpzvvsekbjzfgb6y5.streamlit.app/)
+
 🔹 **Student Performance Predictor**
 - [View Source Code](https://github.com/mhassan619/Hassan-s_AI_Dashboard/tree/main/Student%20Performance%20Project)  
 - Built a classification model to predict academic outcomes based on study habits and attendance.
