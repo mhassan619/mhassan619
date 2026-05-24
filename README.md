@@ -63,6 +63,9 @@
 
  ## 📌 Automation Projects
 
+ 🔹 **AI Automation Dashboard**
+ [View Dashboard](https://aiautomationdashboard-cyaeoww9sgapjwm7zlsxg6.streamlit.app/)
+
 🔹 **File Automation Tool/File Organizer Tool**
 - [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_13)
 -  Automate Local storage and duplicate handling
