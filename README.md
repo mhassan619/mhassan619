@@ -58,7 +58,7 @@
   
 🔹 **Customer Churn Analytics**
 - [View Source Code](https://github.com/mhassan619/Hassan-s_AI_Dashboard/tree/main/Customer%20Churn%20Prediction)  
-- Created a churn prediction system using XGBoost to identify at-risk customers for bussiness. 
+- Created a churn prediction system using XGBoost to identify at-risk customers for business. 
 
 
  ## 📌 Automation Projects
