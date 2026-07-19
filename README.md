@@ -43,6 +43,17 @@
 
 ---
 
+## 🚀 Live Deployed Projects
+
+| # | Project | Description | Stack | Link |
+|---|---------|-------------|-------|------|
+| 1 | 🤖 **UL AI Assistant** | RAG chatbot for University of Layyah — answers in English & Roman Urdu | LangChain · Groq · Llama 3.1 · Flask · Vercel | [🔗 Live App](https://ul-ai-assistant.vercel.app/) |
+| 2 | 📄 **RAG PDF ChatBot** | Upload any PDF and ask questions using RAG pipeline | LangChain · RAG · Vercel | [🔗 Live App](https://rag-pdf-chatbot-one.vercel.app/) |
+| 3 | 📊 **ML Dashboard** | 3 ML models — Student Performance, House Price, Customer Churn | Scikit-learn · XGBoost · Streamlit | [🔗 Live App](https://hassan-saidashboard-awujmtpzvvsekbjzfgb6y5.streamlit.app/) |
+| 4 | ⚙️ **AI Automation Dashboard** | GitHub Analyzer + Weather App + Books Scraper | Streamlit · BeautifulSoup4 · APIs | [🔗 Live App](https://aiautomationdashboard-cyaeoww9sgapjwm7zlsxg6.streamlit.app/) |
+
+---
+
 ## 📌 Machine Learning Projects
 
 🔹 **My ML Dashboard**
