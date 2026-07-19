@@ -61,7 +61,7 @@
 - Created a churn prediction system using XGBoost to identify at-risk customers for business. 
 
 
- ## 📌 Automation Projects
+ ## 📌 AI and Automation Projects
 
  🔹 **University of Layyah AI Assistant**
 -  [View App](https://ul-ai-assistant.vercel.app/)
