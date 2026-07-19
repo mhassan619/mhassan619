@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Hassan
 
-🚀 BSCS Student | Machine Learning Intern | AI Automation Enthusiast
+🚀 BSCS Student | AI Engineer | Python Developer
 
 ---
 
