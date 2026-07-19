@@ -1,136 +1,77 @@
-# 👋 Hi, I'm Muhammad Hassan
+<div align="center">
 
-🚀 BSCS Student | Machine Learning Intern | AI Automation Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=378ADD¢er=true&vCenter=true&width=600&lines=Muhammad+Hassan;Python+Developer+%7C+ML+Engineer;AI+Automation+%7C+RAG+Chatbots;Open+to+Remote+Internships" alt="Typing SVG" />
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammad--hassan--python-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-hassan-python)
+[![GitHub](https://img.shields.io/badge/GitHub-mhassan619-181717?style=for-the-badge&logo=github)](https://github.com/mhassan619)
+[![Email](https://img.shields.io/badge/Email-mhassanawan66521@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:mhassanawan66521@gmail.com)
+[![Location](https://img.shields.io/badge/Location-Layyah%2C%20Pakistan-00897B?style=for-the-badge&logo=googlemaps)](https://github.com/mhassan619)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Remote%20Internships-brightgreen?style=for-the-badge)](https://github.com/mhassan619)
 
-## 🧠 About Me
-
-💻 I’m currently working on real-world Machine Learning & AI Automation projects  
-🤝 I’m looking to collaborate on AI, Chatbots, and Automation systems  
-📚 Currently learning Deep Learning & advanced ML concepts  
-❓ Ask me about Python, ML models, Automation, and Chatbots  
-⚡ Fun fact: I believe consistency beats motivation  
+</div>
 
 ---
 
-## 🚀 Skills & Technologies
+## 👋 Hi, I'm Muhammad Hassan
 
-### 👨‍💻 Programming
-- Python 🐍
-- C++
+**BSCS Student at University of Layyah** | Python Developer | ML Engineer | AI Automation Enthusiast
 
-### 🤖 Machine Learning
-- Scikit-learn
-- Model Training & Evaluation
-- Feature Engineering
-- Classification Models
-
-### ⚙️ AI Automation
-- Chatbot Development
-- Workflow Automation
-- Business Automation Systems
-
-### 📊 Data Tools
-- Pandas
-- NumPy
-- Matplotlib
-
-### 🔧 Tools
-- Git & GitHub
-- Jupyter Notebook
-- Google Colab
+I build real, deployed, working software — not just scripts. My projects are live, testable, and on GitHub.
 
 ---
 
-## 📌 Machine Learning Projects
+## 🚀 Live Projects
 
-🔹 **My ML Dashboard**
-- [View Dashboard](https://hassan-saidashboard-awujmtpzvvsekbjzfgb6y5.streamlit.app/)
-
-🔹 **Student Performance Predictor**
-- [View Source Code](https://github.com/mhassan619/Hassan-s_AI_Dashboard/tree/main/Student%20Performance%20Project)  
-- Built a classification model to predict academic outcomes based on study habits and attendance.
-
-🔹 **House Price Estimator**
-- [View Source Code](https://github.com/mhassan619/Hassan-s_AI_Dashboard/tree/main/House%20Price%20Prediction)  
-- Developed a regression-based tool for real estate valuation using Random forest.
-  
-🔹 **Customer Churn Analytics**
-- [View Source Code](https://github.com/mhassan619/Hassan-s_AI_Dashboard/tree/main/Customer%20Churn%20Prediction)  
-- Created a churn prediction system using XGBoost to identify at-risk customers for business. 
-
-
- ## 📌 AI and Automation Projects
-
- 🔹 **University of Layyah AI Assistant**
--  [View App](https://ul-ai-assistant.vercel.app/)
--  University of Layyah AI Assistant - Search for any information on this RAG Chatbot.
-
- 🔹 **RAG PDF ChatBot**
--  [View App](https://rag-pdf-chatbot-one.vercel.app/)
--  Upload a PDF and Search for updated information you are looking for.
-  
- 🔹 **AI Automation Dashboard**
-- [View Dashboard](https://aiautomationdashboard-cyaeoww9sgapjwm7zlsxg6.streamlit.app/)
-
-🔹 **File Automation Tool/File Organizer Tool**
-- [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_13)
--  Automate Local storage and duplicate handling
-
-
-🔹 **GitHub Analyzer**
--  [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/blob/main/Day_15/GitHub_Analyzer.py)
--  A profile Analytics Tool that integrates with GitHub API to provide deep insights into repository statistics and user activity.
-
-
-🔹 **Books Scrapper**
--  [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/blob/main/Day_18/Professional_book_scrapper.py)
--  Highly Efficient data extraction tool designed to scrape and organize book details from e-commerce sites into structured data
-
-  
-🔹 **Weather App**
--  [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_17)
--  Dynamic Weather application providing real-time atmospheric data and forecasts for any city globally via API integration.
-
-
-🔹 **News Scrapper**
--  [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_19)
--  Automated web scrapping system to fetch and display real-time news headline using BeautifulSoup and Python.
-  
-## 📌 Python Projects
-🔹 **Student Management System**
--  [View Source Code](https://github.com/mhassan619/Projects/tree/main/Student%20Management%20System)
--  A modular OOP-based system to manage student records using custom decorators and JSON storage.
-
-🔹 **Secret Cypher Tool**
--  [View Source Code](https://github.com/mhassan619/Projects/tree/main/Secret%20Cipher%20Tool)
--  A secure message encryption and decryption tool utilizing string manipulation and random logic.
-  
-🔹 **PDF Merger**
--  [View Source Code](https://github.com/mhassan619/Projects/tree/main/PDF%20Merger)
--  An automated utility to scan and merge multiple PDF files into a single document using PYPDF2.
-  
-🔹 **Password Generator**
--  [View Source Code](https://github.com/mhassan619/Projects/tree/main/Password%20Generator.py)
--  A customizable random password generator with user-defined complexity and character types.
-  
----
-
-## 📈 My Learning Mindset
-
-I focus on:
-- ✔ Learning by building real projects  
-✔ Improving step by step  
-✔ Staying consistent even after setbacks  
+| Project | Stack | Link |
+|---------|-------|------|
+| 🤖 **UL AI Assistant** — RAG chatbot for UL | LangChain · Groq · Flask · Vercel | [Live App](https://ul-ai-assistant.vercel.app/) |
+| 📄 **RAG PDF ChatBot** — Ask any PDF | LangChain · RAG · Vercel | [Live App](https://rag-pdf-chatbot-one.vercel.app/) |
+| 📊 **ML Dashboard** — 3 ML models live | Scikit-learn · XGBoost · Streamlit | [Live App](https://hassan-saidashboard-awujmtpzvvsekbjzfgb6y5.streamlit.app/) |
+| ⚙️ **AI Automation Dashboard** — GitHub + Weather + Scraper | Streamlit · BeautifulSoup4 · APIs | [Live App](https://aiautomationdashboard-cyaeoww9sgapjwm7zlsxg6.streamlit.app/) |
 
 ---
 
-## 📫 Connect With Me
+## 🧠 Skills
 
-🔗 LinkedIn: https://www.linkedin.com/in/muhammad-hassan-python?utm_source=share_via&utm_content=profile&utm_medium=member_android  
-💻 Email: mhassanawan66521@gmail.com
+**Machine Learning:** Scikit-learn · XGBoost · Random Forest · Feature Engineering · Model Evaluation
+
+**AI & LLM:** LangChain · Groq API · RAG Pipeline · Llama 3.1 · Prompt Engineering
+
+**Automation & Scraping:** BeautifulSoup4 · Selenium · File I/O · API Integration · Excel Automation
+
+**Data Tools:** Pandas · NumPy · Matplotlib · EDA · Data Visualization
+
+**Backend & Tools:** Flask · FastAPI · Streamlit · Git · GitHub · VS Code · Vercel
+
+**Languages:** Python (Advanced OOP) · C++
 
 ---
 
-⭐ “Not perfect, just improving every day.”
+## 📌 More Projects
+
+- 🔹 [Student Management System](https://github.com/mhassan619/Projects/tree/main/Student%20Management%20System) — OOP-based with decorators and JSON storage
+- 🔹 [File Organizer Tool](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_13) — Auto-cleanup local storage
+- 🔹 [GitHub Analyzer](https://github.com/mhassan619/AI_Automation_Engineer/blob/main/Day_15/GitHub_Analyzer.py) — GitHub API deep insights tool
+- 🔹 [Books Scraper](https://github.com/mhassan619/AI_Automation_Engineer/blob/main/Day_18/Professional_book_scrapper.py) — E-commerce data extraction
+- 🔹 [Weather App](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_17) — Real-time global weather via API
+- 🔹 [PDF Merger](https://github.com/mhassan619/Projects/tree/main/PDF%20Merger) — Automated PDF combining utility
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhassan619&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhassan619&layout=compact&theme=default&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *"Not perfect, just improving every day."*
+
+</div>
