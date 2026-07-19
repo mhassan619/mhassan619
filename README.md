@@ -56,9 +56,6 @@
 
 ## 📌 Machine Learning Projects
 
-🔹 **My ML Dashboard**
-- [View Dashboard](https://hassan-saidashboard-awujmtpzvvsekbjzfgb6y5.streamlit.app/)
-
 🔹 **Student Performance Predictor**
 - [View Source Code](https://github.com/mhassan619/Hassan-s_AI_Dashboard/tree/main/Student%20Performance%20Project)  
 - Built a classification model to predict academic outcomes based on study habits and attendance.
@@ -73,17 +70,6 @@
 
 
  ## 📌 AI and Automation Projects
-
- 🔹 **University of Layyah AI Assistant**
--  [View App](https://ul-ai-assistant.vercel.app/)
--  University of Layyah AI Assistant - Search for any information on this RAG Chatbot.
-
- 🔹 **RAG PDF ChatBot**
--  [View App](https://rag-pdf-chatbot-one.vercel.app/)
--  Upload a PDF and Search for updated information you are looking for.
-  
- 🔹 **AI Automation Dashboard**
-- [View Dashboard](https://aiautomationdashboard-cyaeoww9sgapjwm7zlsxg6.streamlit.app/)
 
 🔹 **File Automation Tool/File Organizer Tool**
 - [View Source Code](https://github.com/mhassan619/AI_Automation_Engineer/tree/main/Day_13)
