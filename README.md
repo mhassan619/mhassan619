@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=30:0F2027,70:2C5364&text=Muhammad%20Hassan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Automation%20Engineer%20%7C%20LLM%20Builder%20%7C%20Python%20Developer&descSize=17&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=30:0F2027,70:2C5364&text=Muhammad%20Hassan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20Builder%20%7C%20Python%20Developer&descSize=17&descAlignY=58" />
 </div>
 
 <!-- Social Badges -->
