@@ -40,14 +40,14 @@ I'm a BSCS student who learns by shipping — I take Machine Learning and AI Aut
 
 <img src="https://skillicons.dev/icons?i=python,cpp,git,github&theme=light" />
 <br/><br/>
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+<img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
 
 </div>
 
@@ -221,7 +221,7 @@ Customizable random password generator with adjustable complexity.
 
 <div align="center">
 
-<img src="https://github-readme-stats-two-eta-95.vercel.app/api?username=mhassan619&show_icons=true&theme=default&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats-two-eta-95.vercel.app/api?username=mhassan619&show_icons=true&theme=default&hide_border=true" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=mhassan619&hide_border=true" width="49%" />
 
 <br/>
